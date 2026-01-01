@@ -1,10 +1,10 @@
-# Dub Siren PCB
+# Tunable Dub Siren PCB
 
-PCB design for a dub siren.
+PCB design for a tunable dub siren.
 
 ## Files
-- `Altium_Project_Dub_Siren.zip` — full Altium Designer project
-- `Dub_Siren_Fabrication_Files.zip` — Gerbers + NC drill
+- `Altium` — full Altium Designer project
+- `Fabrication` — Gerbers + NC drill
 - Parts list and build notes included
 
 Designed in Altium Designer by Brenna Kennedy-Moore.
