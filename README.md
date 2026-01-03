@@ -2,6 +2,8 @@
 
 PCB design for a tunable dub siren.
 
+You can view the most recent schematic and PCB layout files with [Altium Viewer](https://www.altium.com/viewer/).
+
 ## Files
 - `Altium` — full Altium Designer project
 - `Fabrication` — Gerbers + NC drill
